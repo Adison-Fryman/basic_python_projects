@@ -108,5 +108,5 @@ def count_by_n(min,max,n):
 
 
 # I left off at advanced lists review #5, this is about half way done with the review.
-#is it even/odd function up to (pick a number for now that you can figure out on your own)
+
 
